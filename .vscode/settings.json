@@ -1,0 +1,14 @@
+{
+    "explorer.compactFolders": false,
+    "workbench.tree.renderIndentGuides": "always",
+    "folder-color.pathColors": [
+        {
+            "folderPath": "React Native\\primeiro-app-react-native\\src\\app\\(tabs)\\filmes\\",
+            "color": "foldercolorizer.color_0087af"
+        },
+        {
+            "folderPath": "React Native\\primeiro-app-react-native\\src\\app\\(tabs)\\",
+            "color": "foldercolorizer.color_af5f5f"
+        }
+    ]
+}
